@@ -43,6 +43,7 @@
 <br/>
   Legenda de Status: <br/>
   ❌ Não Iniciado | ⏳ Em Andamento | ✅ Concluído
+  
 ---
 
 ## 🛠️ Tecnologias Utilizadas
