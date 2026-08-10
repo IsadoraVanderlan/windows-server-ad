@@ -40,6 +40,9 @@
 | **25** | Auditoria de Eventos e Logs de Acesso (Event Viewer)       | _Extra de Segurança_                              |   ⏳   | [Ver Resumo](./modulos/aula-25.md) |
 | **26** | Backup e Restauração do Estado do Sistema (System State)   | Marco Andrade (06)                                |   ⏳   | [Ver Resumo](./modulos/aula-26.md) |
 
+<br/>
+  Legenda de Status: <br/>
+  ❌ Não Iniciado | ⏳ Em Andamento | ✅ Concluído
 ---
 
 ## 🛠️ Tecnologias Utilizadas
