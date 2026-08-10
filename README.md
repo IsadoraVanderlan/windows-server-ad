@@ -11,7 +11,7 @@
 
 ## 🗓️ Progresso do Curso
 
-|  Aula  | Tema                                                       | Fonte / Referência                                | Status |             Anotações              |
+|  Aula  | Tema                                                       | Fonte / Videos Youtube                            | Status |             Anotações              |
 | :----: | :--------------------------------------------------------- | :------------------------------------------------ | :----: | :--------------------------------: |
 | **01** | Download e Instalação do Windows Server                    | Descomplicando a TI (01) / Marco Andrade (01)     |   ⏳   | [Ver Resumo](./modulos/aula-01.md) |
 | **02** | Configuração Base de Rede e IP Estático                    | Descomplicando a TI (02) / Marco Andrade (02)     |   ⏳   | [Ver Resumo](./modulos/aula-02.md) |
@@ -54,5 +54,5 @@
 
 Os estudos deste repositório foram baseados e estruturados a partir das seguintes playlists gratuitas no YouTube:
 
-- **Windows Server 2025 do Zero:** [Acessar Playlist no YouTube (Descomplicando a TI)](https://www.youtube.com/playlist?list=PL_J8lC_J4kS9vR6aVb_P3jA7H-a_D2x5-)
-- **Curso Windows Server 2016:** [Acessar Playlist no YouTube (Marco Andrade - Desvendando a Tecnologia)](https://www.youtube.com/playlist?list=PLfTvhx_4q_P8sR4W9Z4qY7Vb5J_k2X_3-)
+- **Descomplicando a TI** [Acessar Playlist no YouTube (Windows Server 2025 do Zero)](https://www.youtube.com/playlist?list=PL_J8lC_J4kS9vR6aVb_P3jA7H-a_D2x5-)
+- **Marco Andrade** [Acessar Playlist no YouTube ( Curso Windows Server 2016)](https://www.youtube.com/playlist?list=PLfTvhx_4q_P8sR4W9Z4qY7Vb5J_k2X_3-)
