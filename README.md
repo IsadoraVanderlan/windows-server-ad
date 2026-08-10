@@ -13,7 +13,7 @@
 
 |  Aula  | Tema                                                       | Fonte / Videos Youtube                            | Status |             Anotações              |
 | :----: | :--------------------------------------------------------- | :------------------------------------------------ | :----: | :--------------------------------: |
-| **01** | Download e Instalação do Windows Server                    | Descomplicando a TI (01) / Marco Andrade (01)     |   ⏳   | [Ver Resumo](./modulos/aula-01.md) |
+| **01** | Download e Instalação do Windows Server                    | Descomplicando a TI (01) / Marco Andrade (01)     |   ✅   | [Ver Resumo](./modulos/aula-01.md) |
 | **02** | Configuração Base de Rede e IP Estático                    | Descomplicando a TI (02) / Marco Andrade (02)     |   ⏳   | [Ver Resumo](./modulos/aula-02.md) |
 | **03** | Funções, Recursos e Server Manager                         | Descomplicando a TI (03, 14)                      |   ⏳   | [Ver Resumo](./modulos/aula-03.md) |
 | **04** | Conexão de Área de Trabalho Remota (RDP)                   | Descomplicando a TI (04)                          |   ⏳   | [Ver Resumo](./modulos/aula-04.md) |
