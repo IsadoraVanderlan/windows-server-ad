@@ -54,5 +54,5 @@
 
 Os estudos deste repositório foram baseados e estruturados a partir das seguintes playlists gratuitas no YouTube:
 
-- **Descomplicando a TI** [Acessar Playlist no YouTube (Windows Server 2025 do Zero)](https://www.youtube.com/playlist?list=PL_J8lC_J4kS9vR6aVb_P3jA7H-a_D2x5-)
-- **Marco Andrade** [Acessar Playlist no YouTube ( Curso Windows Server 2016)](https://www.youtube.com/playlist?list=PLfTvhx_4q_P8sR4W9Z4qY7Vb5J_k2X_3-)
+- **Descomplicando a TI** [Acessar Playlist no YouTube (Windows Server 2025 do Zero)](https://www.youtube.com/watch?v=wucb-HHeQH0&list=PLHp04fF85c-jnCf8mGriFyG19IlxzQsFP)
+- **Marco Andrade** [Acessar Playlist no YouTube ( Curso Windows Server 2016)](https://www.youtube.com/watch?v=OrZO6bwR0ZA&list=PL9lSkGEyDvS-rgTtG8fOmDYSxp0VRAxLL)
