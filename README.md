@@ -16,8 +16,8 @@
 | **01** | Download e Instalação do Windows Server                    | Descomplicando a TI (01) / Marco Andrade (01)     |   ✅   | [Ver Resumo](./modulos/01.md) |
 | **02** | Configuração Base de Rede e IP Estático                    | Descomplicando a TI (02) / Marco Andrade (02)     |   ✅   | [Ver Resumo](./modulos/02.md) |
 | **03** | Funções, Recursos e Server Manager                         | Descomplicando a TI (03, 14)                      |   ✅   | [Ver Resumo](./modulos/03.md) |
-| **04** | Conexão de Área de Trabalho Remota (RDP)                   | Descomplicando a TI (04)                          |   ⏳   | [Ver Resumo](./modulos/04.md) |
-| **05** | Instalação do Active Directory e Pré-configuração          | Descomplicando a TI (05, 07) / Marco Andrade (03) |   ⏳   | [Ver Resumo](./modulos/05.md) |
+| **04** | Conexão de Área de Trabalho Remota (RDP)                   | Descomplicando a TI (04)                          |   ✅   | [Ver Resumo](./modulos/04.md) |
+| **05** | Instalação do Active Directory e Pré-configuração          | Descomplicando a TI (05, 07) / Marco Andrade (03) |   ✅   | [Ver Resumo](./modulos/05.md) |
 | **06** | Promovendo o Servidor a Domain Controller (DC)             | Descomplicando a TI (06, 08) / Marco Andrade (04) |   ⏳   | [Ver Resumo](./modulos/06.md) |
 | **07** | Criando e Gerenciando Usuários no AD                       | Descomplicando a TI (09) / Marco Andrade (07)     |   ⏳   | [Ver Resumo](./modulos/07.md) |
 | **08** | Criando e Gerenciando Grupos de Domínio                    | Descomplicando a TI (10) / Marco Andrade (08)     |   ⏳   | [Ver Resumo](./modulos/08.md) |
