@@ -18,16 +18,16 @@
 | **03** | Funções, Recursos e Server Manager                         | Descomplicando a TI (03, 14)                      |   ✅   | [Ver Resumo](./modulos/03.md) |
 | **04** | Conexão de Área de Trabalho Remota (RDP)                   | Descomplicando a TI (04)                          |   ✅   | [Ver Resumo](./modulos/04.md) |
 | **05** | Instalação do Active Directory e Pré-configuração          | Descomplicando a TI (05, 07) / Marco Andrade (03) |   ✅   | [Ver Resumo](./modulos/05.md) |
-| **06** | Promovendo o Servidor a Domain Controller (DC)             | Descomplicando a TI (06, 08) / Marco Andrade (04) |   ⏳   | [Ver Resumo](./modulos/06.md) |
-| **07** | Criando e Gerenciando Usuários no AD                       | Descomplicando a TI (09) / Marco Andrade (07)     |   ⏳   | [Ver Resumo](./modulos/07.md) |
-| **08** | Criando e Gerenciando Grupos de Domínio                    | Descomplicando a TI (10) / Marco Andrade (08)     |   ⏳   | [Ver Resumo](./modulos/08.md) |
-| **09** | Organização por Unidades Organizacionais (OUs)             | Descomplicando a TI (11) / Marco Andrade (09)     |   ⏳   | [Ver Resumo](./modulos/09.md) |
-| **10** | Configuração de Domain Controller Secundário               | Descomplicando a TI (12)                          |   ⏳   | [Ver Resumo](./modulos/10.md) |
-| **11** | Nível Funcional de Domínio e Floresta                      | Descomplicando a TI (13)                          |   ⏳   | [Ver Resumo](./modulos/11.md) |
-| **12** | Gerenciamento Remoto do AD via RSAT                        | Descomplicando a TI (15)                          |   ⏳   | [Ver Resumo](./modulos/12.md) |
-| **13** | Ingressando Estações Windows no Domínio                    | Descomplicando a TI (16) / Marco Andrade (05)     |   ⏳   | [Ver Resumo](./modulos/13.md) |
-| **14** | Instalação e Configuração do Servidor DHCP                 | Marco Andrade (11, 12)                            |   ⏳   | [Ver Resumo](./modulos/14.md) |
-| **15** | Reservas de IP no DHCP por MAC Address                     | _Extra Prático_                                   |   ⏳   | [Ver Resumo](./modulos/15.md) |
+| **06** | Promovendo o Servidor a Domain Controller (DC)             | Descomplicando a TI (06, 08) / Marco Andrade (04) |   ✅   | [Ver Resumo](./modulos/06.md) |
+| **07** | Criando e Gerenciando Usuários no AD                       | Descomplicando a TI (09) / Marco Andrade (07)     |   ✅   | [Ver Resumo](./modulos/07.md) |
+| **08** | Criando e Gerenciando Grupos de Domínio                    | Descomplicando a TI (10) / Marco Andrade (08)     |   ✅   | [Ver Resumo](./modulos/08.md) |
+| **09** | Organização por Unidades Organizacionais (OUs)             | Descomplicando a TI (11) / Marco Andrade (09)     |   ✅   | [Ver Resumo](./modulos/09.md) |
+| **10** | Configuração de Domain Controller Secundário               | Descomplicando a TI (12)                          |   ✅   | [Ver Resumo](./modulos/10.md) |
+| **11** | Nível Funcional de Domínio e Floresta                      | Descomplicando a TI (13)                          |   ✅   | [Ver Resumo](./modulos/11.md) |
+| **12** | Gerenciamento Remoto do AD via RSAT                        | Descomplicando a TI (15)                          |   ✅   | [Ver Resumo](./modulos/12.md) |
+| **13** | Ingressando Estações Windows no Domínio                    | Descomplicando a TI (16) / Marco Andrade (05)     |   ✅   | [Ver Resumo](./modulos/13.md) |
+| **14** | Instalação e Configuração do Servidor DHCP                 | Marco Andrade (11, 12)                            |   ✅   | [Ver Resumo](./modulos/14.md) |
+| **15** | Reservas de IP no DHCP por MAC Address                     | _Extra Prático_                                   |   ✅   | [Ver Resumo](./modulos/15.md) |
 | **16** | Configuração Avançada do Servidor DNS e Forwarders         | Marco Andrade (13, 14)                            |   ⏳   | [Ver Resumo](./modulos/16.md) |
 | **17** | Compartilhamento de Arquivos e Permissões NTFS             | Marco Andrade (15)                                |   ⏳   | [Ver Resumo](./modulos/17.md) |
 | **18** | Servidor de Arquivos: FSRM (Cotas e Triagem)               | Marco Andrade (17, 18)                            |   ⏳   | [Ver Resumo](./modulos/18.md) |
