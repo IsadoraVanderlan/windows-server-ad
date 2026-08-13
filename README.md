@@ -1,4 +1,4 @@
-# 🖥️ Windows Server & Active Directory - Trilha Prática
+# 🖥️ Windows Server & Active Directory - Study Plan
 
 ## 🎯 Objetivos
 
