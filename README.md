@@ -28,17 +28,17 @@
 | **13** | Ingressando Estações Windows no Domínio                    | Descomplicando a TI (16) / Marco Andrade (05)     |   ✅   | [Ver Resumo](./modulos/13.md) |
 | **14** | Instalação e Configuração do Servidor DHCP                 | Marco Andrade (11, 12)                            |   ✅   | [Ver Resumo](./modulos/14.md) |
 | **15** | Reservas de IP no DHCP por MAC Address                     | _Extra Prático_                                   |   ✅   | [Ver Resumo](./modulos/15.md) |
-| **16** | Configuração Avançada do Servidor DNS e Forwarders         | Marco Andrade (13, 14)                            |   ⏳   | [Ver Resumo](./modulos/16.md) |
-| **17** | Compartilhamento de Arquivos e Permissões NTFS             | Marco Andrade (15)                                |   ⏳   | [Ver Resumo](./modulos/17.md) |
-| **18** | Servidor de Arquivos: FSRM (Cotas e Triagem)               | Marco Andrade (17, 18)                            |   ⏳   | [Ver Resumo](./modulos/18.md) |
-| **19** | Conceitos de Objetos de Diretiva de Grupo (GPO)            | Marco Andrade (16)                                |   ⏳   | [Ver Resumo](./modulos/19.md) |
-| **20** | Configuração do Servidor de Impressão e Impressora via GPO | Marco Andrade (19, 20)                            |   ⏳   | [Ver Resumo](./modulos/20.md) |
-| **21** | Gerenciamento do Firewall do Windows via GPO               | Marco Andrade (21)                                |   ⏳   | [Ver Resumo](./modulos/21.md) |
-| **22** | Mapeamento de Discos e Unidades de Rede via GPO            | _Extra Prático_                                   |   ⏳   | [Ver Resumo](./modulos/22.md) |
-| **23** | Hardening: Habilitando a Lixeira do Active Directory       | _Extra de Segurança_                              |   ⏳   | [Ver Resumo](./modulos/23.md) |
-| **24** | Hardening: Políticas de Senha Granulares (PSO)             | _Extra de Segurança_                              |   ⏳   | [Ver Resumo](./modulos/24.md) |
-| **25** | Auditoria de Eventos e Logs de Acesso (Event Viewer)       | _Extra de Segurança_                              |   ⏳   | [Ver Resumo](./modulos/25.md) |
-| **26** | Backup e Restauração do Estado do Sistema (System State)   | Marco Andrade (06)                                |   ⏳   | [Ver Resumo](./modulos/26.md) |
+| **16** | Configuração Avançada do Servidor DNS e Forwarders         | Marco Andrade (13, 14)                            |   ✅   | [Ver Resumo](./modulos/16.md) |
+| **17** | Compartilhamento de Arquivos e Permissões NTFS             | Marco Andrade (15)                                |   ✅   | [Ver Resumo](./modulos/17.md) |
+| **18** | Servidor de Arquivos: FSRM (Cotas e Triagem)               | Marco Andrade (17, 18)                            |   ✅   | [Ver Resumo](./modulos/18.md) |
+| **19** | Conceitos de Objetos de Diretiva de Grupo (GPO)            | Marco Andrade (16)                                |   ✅   | [Ver Resumo](./modulos/19.md) |
+| **20** | Configuração do Servidor de Impressão e Impressora via GPO | Marco Andrade (19, 20)                            |   ✅   | [Ver Resumo](./modulos/20.md) |
+| **21** | Gerenciamento do Firewall do Windows via GPO               | Marco Andrade (21)                                |   ✅   | [Ver Resumo](./modulos/21.md) |
+| **22** | Mapeamento de Discos e Unidades de Rede via GPO            | _Extra Prático_                                   |   ✅   | [Ver Resumo](./modulos/22.md) |
+| **23** | Hardening: Habilitando a Lixeira do Active Directory       | _Extra de Segurança_                              |   ✅   | [Ver Resumo](./modulos/23.md) |
+| **24** | Hardening: Políticas de Senha Granulares (PSO)             | _Extra de Segurança_                              |   ✅   | [Ver Resumo](./modulos/24.md) |
+| **25** | Auditoria de Eventos e Logs de Acesso (Event Viewer)       | _Extra de Segurança_                              |   ✅   | [Ver Resumo](./modulos/25.md) |
+| **26** | Backup e Restauração do Estado do Sistema (System State)   | Marco Andrade (06)                                |   ✅   | [Ver Resumo](./modulos/26.md) |
 
 <br/>
   Legenda de Status: <br/>
