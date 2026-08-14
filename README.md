@@ -60,3 +60,9 @@ Os estudos deste repositório foram baseados e estruturados a partir das seguint
 
 - **Descomplicando a TI** [Acessar Playlist no YouTube (Windows Server 2025 do Zero)](https://www.youtube.com/watch?v=wucb-HHeQH0&list=PLHp04fF85c-jnCf8mGriFyG19IlxzQsFP)
 - **Marco Andrade** [Acessar Playlist no YouTube ( Curso Windows Server 2016)](https://www.youtube.com/watch?v=OrZO6bwR0ZA&list=PL9lSkGEyDvS-rgTtG8fOmDYSxp0VRAxLL)
+
+---
+
+## 🤝 Agradecimentos
+
+Agradecimento especial ao **Edson Bezerra** (_Manager, LATAM Cyber Security Infrastructure Services - DXC Technology_) pela mentoria, orientações estratégicas e incentivo na estruturação deste plano de estudos.
